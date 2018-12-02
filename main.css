@@ -2,3 +2,30 @@
     text-align: center;
     background: none;
 }
+
+div.carousel-caption > h5{
+    text-shadow: 1px 1px #000;
+}
+
+div.carousel-caption > p{
+    text-shadow: 1px 1px #000;
+}
+
+.myDescA {
+    text-align: center;
+    display: block;
+}
+
+#pageOne {
+    background-color: #eee;
+    padding: 2rem;
+}
+
+#pageTwo {
+    background-color: #aaa;
+    padding: 2rem;
+}
+
+div.col-sm-12 {
+    text-align: center;
+}
