@@ -16,16 +16,24 @@ div.carousel-caption > p{
     display: block;
 }
 
-#pageOne {
+.secLight {
     background-color: #eee;
     padding: 2rem;
 }
 
-#pageTwo {
+.secDark {
     background-color: #aaa;
     padding: 2rem;
 }
 
-img.img-fluid.myIMG {
+.myCenter {
     text-align: center;
+}
+
+.mybtn {
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 54%;
 }
