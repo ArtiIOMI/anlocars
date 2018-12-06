@@ -19,11 +19,15 @@ div.carousel-caption > p{
 .secLight {
     background-color: #eee;
     padding: 2rem;
+    padding-bottom: 5rem;
+    padding-top: 5rem; 
 }
 
 .secDark {
     background-color: #aaa;
     padding: 2rem;
+    padding-bottom: 10rem;
+    padding-top: 10rem;
 }
 
 .myCenter {
@@ -36,4 +40,14 @@ div.carousel-caption > p{
     margin-top: 15px;
     margin-bottom: 20px;
     width: 54%;
+}
+
+.myFooter {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+.myAutor {
+    margin-bottom: 0;
 }
