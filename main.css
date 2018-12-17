@@ -15,6 +15,10 @@ div.carousel-caption > p{
     text-shadow: 1px 1px #000;
 }
 
+.collapsing {
+    transition: height 1.6s;
+}
+
 .myDescA {
     text-align: center;
     display: block;
