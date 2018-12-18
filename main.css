@@ -65,3 +65,18 @@ div.carousel-caption > p{
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+
+.myMoveDiv {
+    background: #000000b8;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 5px;
+}
+
+.myMoveDiv:hover {
+    text-decoration: none;
+}
+
+.myNBtPadd {
+    padding-bottom: 0;
+}
